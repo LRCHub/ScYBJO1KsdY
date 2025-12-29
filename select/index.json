@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "一歩前ノセカイ（TVアニメ「シャインポスト」）",
+  "base_artist": "TINGS：青天国春(CV.鈴代紗弓)、玉城杏夏(CV.蟹沢萌子)、聖舞理王(CV.夏吉ゆうこ)、祇園寺雪音(CV.長谷川里桃)、伊藤紅葉(CV.中川梨花)",
+  "createdAt": "2025-12-29T12:48:46.641378Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "一歩前ノセカイ",
+      "artist": "TINGS:青天国春(CV.鈴代紗弓)、玉城杏夏(CV.蟹沢萌子)、聖舞理王(CV.夏吉ゆうこ)、祇園寺雪音(CV.長谷川里桃)、伊藤紅葉(CV.中川梨花)",
+      "has_synced": false,
+      "path": "select/pl_01_一歩前ノセカイ_TINGS_青天国春(CV.鈴代紗弓)、玉城杏夏(CV.蟹沢萌子)、聖舞理王(CV.夏吉ゆうこ)、祇園寺雪音(CV.長谷川里桃)、伊藤紅葉(CV.中川梨花).txt"
+    }
+  ]
+}
